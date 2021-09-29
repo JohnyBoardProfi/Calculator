@@ -1,0 +1,10 @@
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Calculator\Calculator\obj\Debug\Calculator.pdb
